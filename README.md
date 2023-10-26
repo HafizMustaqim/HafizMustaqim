@@ -28,5 +28,4 @@
 ---
 
 ### :pushpin: Stats :
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmustaqim&theme=dark" alt="hafizmustaqim" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizmustaqim&show_icons=true&theme=dark&locale=en&layout=compact" alt="hafizmustaqim" /></p>
