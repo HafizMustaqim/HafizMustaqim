@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">Not a genius, but an avid seeker of knowledge.</h3>
 <h1 align="center">Greetings!</h1>
-<p align="center">I'm Hafiz Mustaqim, a software engineering alumnus, though in truth.</h2>
+<h2 align="center">I'm Hafiz Mustaqim, a software engineering alumnus, though in truth.</h2>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
