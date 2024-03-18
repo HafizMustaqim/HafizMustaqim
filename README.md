@@ -4,7 +4,3 @@
 <h3 align="center">Not a genius, but an avid seeker of knowledge.</h3>
 <h1 align="center">Greetings!</h1>
 <p align="center">I'm Hafiz Mustaqim, a software engineering alumnus, though in truth.</h2>
----
-
-### :pushpin: Stats :
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizmustaqim&show_icons=true&theme=dark&locale=en&layout=compact" alt="hafizmustaqim" /></p>
