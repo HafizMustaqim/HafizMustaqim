@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.webp?cid=ecf05e47et3ps2srnqlbxa35f8tc7owtkpeex708wo28knnb&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="100"/>
-</div>
 <h1 align="center">Greetings!</h1>
-<p align="center">I'm Hafiz Mustaqim, a software engineering alumnus, though in truth.</h2>
+<div align="center">
+  <em style="font-size: 24px;">I'm Hafiz Mustaqim, a software engineering alumnus, though in truth.</em>
+  <p>Mostly with Laravel, a touch of Flutter, and scarce JavaScript.</p>
+</div>
